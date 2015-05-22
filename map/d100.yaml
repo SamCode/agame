@@ -1,0 +1,11 @@
+Bat:
+  - 2
+  - name: Small Bat
+    lv: 1
+    hp: 25
+    att: 3
+    
+Stone:
+  - 1
+  - name: Small Stone
+    durabliity: 5

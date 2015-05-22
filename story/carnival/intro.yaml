@@ -1,0 +1,21 @@
+gintro:
+  - Are you prepared?
+  - ["Yes", "No"]
+cintro1: >
+  "It's in sight! Finally, I've reached Carnival!" As you leave the forest path and enter the tunnel leading into the depths of the dungeon, you approach a large, chipped slab of wood hammered into the wall with ink that reads: "Welcome to Shady Cavern, the 100th floor of Carnival dungeon. Please find our information kiosks to the right. We hope you will enjoy your hunt. - Demon Corps, Inc., curators of the 100th floor". Sure enough, you find a helpdesk made of a large wooden table and signboard etched with the letters "INFO". You turn to face the information kiosk and find an exceedingly short man standing behind it. "Need directions?", he grumbles. "No thanks", you respond. "I already have a map." The man yawns before saying, "Then have a nice day, young'un." He points down the tunnel with his eyes half-closed. To avoid meddling with him further, you briskly move forward.
+d100_enter1: >
+  Soon, you realize you are already inside the Shady Cavern. The tunnel had widened into a fully-fledged rocky and dark cave. The walls are 
+    periodically adorned with lanterns that emit dim yellow lighting and paint 
+    shadows on opposing surfaces.
+d100_enter2: >
+  As soon as you descend down the slope, you eye a bat speeding towards your head.
+d100_enter3: >
+  You do not meet the requirements to access the 100th floor.
+end_intro: > 
+  Legends say there is nothing below the 90th floor. We adventurers all know it isn't true. The only problem with our beliefs is that nobody has ever returned from the 89th to confirm them. It has been observed that there is a tunnel at least a mile long between the 90th and 89th, and the ground of the tunnel is filled with a bottomless swamp. The tunnel is called the Endless Gap, and cannot be compared to the Carnival entrance. The Endless Gap is impossible to traverse unless one can control the elements, which is long lost sorcery.
+intro_segue1: >
+  Moving on...
+intro_segue2: >
+  To be continued...
+end_final: >
+  The end.

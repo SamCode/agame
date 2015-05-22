@@ -1,0 +1,15 @@
+gintro
+    cintro1
+        d100_enter1
+            end_intro*
+        d100_enter2
+            end_intro*
+        d100_enter3
+
+end_intro
+    intro_segue1
+        end_final*
+    intro_segue2
+        end_final*
+
+end_final
